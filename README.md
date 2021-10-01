@@ -1,7 +1,7 @@
 # Magic ball
 The **magic_ball** is a simple console program that is used for fortune telling or seeking advice. Written in [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
-#### How to run magic-ball:
+#### How to run:
 1. Download and install [ruby](https://www.ruby-lang.org/en/downloads/)
 
 2. Download and run **magic_ball.rb**
