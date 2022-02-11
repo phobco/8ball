@@ -13,6 +13,11 @@ Clone repo
 git clone https://github.com/phobco/magic_ball
 ```
 
+Enter the folder
+```
+cd magic-ball/
+```
+
 Run
 ```
 ruby magic_ball.rb
